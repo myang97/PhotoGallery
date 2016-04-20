@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD Image Gallery</string>
+
+    <string name="main_search_header">Image Search Keyword</string>
+</resources>
